@@ -1,3 +1,4 @@
+/* Individuals with Top Contributions without using Zip Code */
 SELECT
  name, sum(transaction_amt)
 FROM
